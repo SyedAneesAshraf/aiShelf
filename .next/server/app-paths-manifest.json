@@ -1,9 +1,0 @@
-{
-  "/dashboard/search/page": "app/dashboard/search/page.js",
-  "/dashboard/audit/page": "app/dashboard/audit/page.js",
-  "/dashboard/perception/page": "app/dashboard/perception/page.js",
-  "/dashboard/actions/page": "app/dashboard/actions/page.js",
-  "/dashboard/products/page": "app/dashboard/products/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/dashboard/health/page": "app/dashboard/health/page.js"
-}
